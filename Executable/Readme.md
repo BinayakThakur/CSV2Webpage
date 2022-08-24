@@ -1,4 +1,4 @@
-# Foobar
+# What is CSV2WEBPAGE
 
 CSV2WEBPAGE is a small java library, where you can convert large CSV datasets, with lakhs of records to HTML pages in a few minutes using multi-threading 
 
