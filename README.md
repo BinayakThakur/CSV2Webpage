@@ -34,3 +34,9 @@ https://www.kaggle.com/datasets/tarundalal/the-big-three-anime-arcs
 Another example is inside folder
 
 https://www.kaggle.com/datasets/abhinand05/crop-production-in-india
+
+and another one 
+
+https://www.kaggle.com/datasets/undefinenull/satirical-news-from-the-onion
+
+this is deployed at https://binayakthakur.github.io/CSV2Webpage/
