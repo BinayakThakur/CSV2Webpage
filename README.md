@@ -22,3 +22,10 @@ You can change the table design using the css.properties
 The meta properties can be used to tell where to store the generated HTML file, what should be the name and which CSV file to convert  
 
 use read me inside the folder to understand how to configure and run the jar
+
+
+## Example CSV
+
+There is an example csv converted to html in the folder 
+
+https://www.kaggle.com/datasets/abhinand05/crop-production-in-india
