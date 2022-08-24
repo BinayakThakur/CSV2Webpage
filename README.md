@@ -24,8 +24,13 @@ The meta properties can be used to tell where to store the generated HTML file, 
 use read me inside the folder to understand how to configure and run the jar
 
 
-## Example CSV
+## Example CSV to Table generation
 
-There is an example csv converted to html in the folder 
+![image](https://user-images.githubusercontent.com/83908274/186428871-079afac6-4f6a-4690-aaf3-26a9e0e36f26.png)
+
+This table was generated from following dataset
+https://www.kaggle.com/datasets/tarundalal/the-big-three-anime-arcs
+
+Another example is inside folder
 
 https://www.kaggle.com/datasets/abhinand05/crop-production-in-india
